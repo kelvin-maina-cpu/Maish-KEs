@@ -13,7 +13,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background: url('./images/kevs_image.png') no-repeat center center fixed;
+  background: url('images/kevs_image.png') no-repeat center center fixed;
   background-size: cover;
   color: #333;
   font-family: "Segoe UI", Tahoma, sans-serif;
@@ -233,7 +233,7 @@ body {
   display: flex;
   justify-content: right;
   align-items: flex-start;
-  transparent;
+  
 }
  
 .profile-image {
